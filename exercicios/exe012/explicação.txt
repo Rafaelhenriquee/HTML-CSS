@@ -1,0 +1,2 @@
+ <!--sempre configurar sua imagens da menor para a maior 
+    tag  sourcetype  max-width: menor para o maior ex 750 depois 1025 se inverte não funciona assim sua tela se adapta para qualquer tela celular, tablet e monitor grande-->
